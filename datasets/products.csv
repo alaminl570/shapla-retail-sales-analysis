@@ -1,0 +1,31 @@
+product_id,product_name,product_category,cost_price,unite_price
+P001,Smartphone,Electronics,15000,22000
+P002,Laptop,Electronics,60000,85000
+P003,Headphone,Electronics,1200,3500
+P004,Smart Watch,Electronics,5000,12000
+P005,Rice 25kg,Grocery,2000,3000
+P006,Flour 50kg,Grocery,2500,3500
+P007,Cooking Oil 5L,Grocery,600,1000
+P008,Sugar 10kg,Grocery,900,1500
+P009,Men Shirt,Fashion,600,1800
+P010,Women Handbag,Fashion,2000,4500
+P011,Jeans Pant,Fashion,1200,3000
+P012,Sneakers,Fashion,1800,5000
+P013,Blender,Home Appliance,3000,6000
+P014,Microwave,Home Appliance,9000,15000
+P015,Electric Kettle,Home Appliance,1500,4000
+P016,Ceiling Fan,Home Appliance,3500,8000
+P017,Blender Pro,Home Appliance,3000,6000
+P018,Rice 25kg Pro,Grocery,2000,3000
+P019,Rice 25kg Pro,Grocery,2000,3000
+P020,Smart Watch Pro,Electronics,5000,12000
+P021,Blender Pro,Home Appliance,3000,6000
+P022,Smartphone Pro,Electronics,15000,22000
+P023,Men Shirt Pro,Fashion,600,1800
+P024,Microwave Pro,Home Appliance,9000,15000
+P025,Sugar 10kg Pro,Grocery,900,1500
+P026,Headphone Pro,Electronics,1200,3500
+P027,Flour 50kg Pro,Grocery,2500,3500
+P028,Blender Pro,Home Appliance,3000,6000
+P029,Women Handbag Pro,Fashion,2000,4500
+P030,Microwave Pro,Home Appliance,9000,15000
