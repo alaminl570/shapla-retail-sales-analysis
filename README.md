@@ -32,6 +32,10 @@ The database was designed in Microsoft SQL Server using a normalised relational 
  - orders → order_details (1:M)
  - products → order_details (1:M)
 
+<p align="center">
+  <img src="docs/table_relationships.png" width="720">
+</p>
+
 ## ⚙️ Technologies Used
 - Microsoft SQL Server (SSMS)
 - Advanced SQL (JOINs, CTEs, Window Functions, Indexing)
