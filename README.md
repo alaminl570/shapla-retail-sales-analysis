@@ -42,4 +42,28 @@ The database was designed in Microsoft SQL Server using a normalised relational 
 - Tableau Public (Executive Dashboard)
 - GitHub (Project Documentation)
 
+## 📈 Key SQL Analysis Performed
+#### Revenue Analysis
+- Revenue by Region
+- Revenue by Product Category
+- Top Revenue Customers
+
+#### Profitability Analysis
+- Profit by Customer Segment
+- Profit Margin Calculation
+- Low Margin Product Identification
+
+#### Trend Analysis
+- Monthly Revenue Trend (Using CTE & LAG)
+- Average Order Value (AOV)
+
+#### Performance Optimisation
+- Index creation on foreign keys
+- Composite index for customer-date analysis
+
+<p align="center">
+  <img src="docs/kpi_dashboard_queries.png" width="720">
+</p>
+
+
 
