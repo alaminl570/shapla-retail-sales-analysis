@@ -61,6 +61,9 @@ The database was designed in Microsoft SQL Server using a normalised relational 
 - Index creation on foreign keys
 - Composite index for customer-date analysis
 
+**SQL Implementation**
+- [`kpi_dashboard_queries.sql`](scripts/kpi_dashboard_queries.sql)
+
 <p align="center">
   <img src="docs/kpi_dashboard_queries.png" width="720">
 </p>
