@@ -19,6 +19,14 @@ Shapla Retail Ltd. wants to answer:
 - Which customer segment (Retail vs Corporate) produces higher profit?
 - Which products have low profit margins and require pricing review?
 
+### Business Problem Solution
+**SQL Implementation**
+- [`business_problem_queries.sql`](scripts/business_problem_queries.sql)
+
+<p align="center">
+  <img src="docs/business_problem_queries.png" width="720">
+</p>
+
 ## 🗂 Database Design
 The database was designed in Microsoft SQL Server using a normalised relational schema.
 ### Tables:
