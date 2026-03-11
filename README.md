@@ -76,5 +76,20 @@ The database was designed in Microsoft SQL Server using a normalised relational 
   <img src="docs/kpi_dashboard_queries.png" width="720">
 </p>
 
+## 📊 Tableau Executive Dashboard
+An interactive executive dashboard was created using Tableau Public to visualise key sales and customer insights.
+
+### Dashboard Includes
+#### Sales Performance Dashboard
+- Total Revenue KPI
+- Total Profit KPI
+- Average Order Value
+- Revenue Trend Over Time
+- Profit Trend Analysis
+- Revenue & Profit by Region
+- Revenue & Profit by Product Category
+<p align="center">
+  <img src="docs/table_relationships.png" width="720">
+</p>
 
 
