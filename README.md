@@ -121,7 +121,7 @@ Based on the analysis:
 - Improve inventory planning based on sales trend patterns.
 
 ## 👤 Author
-MD ALAMIN MIA
+MD ALAMIN MIA,
 Aspiring Data Analyst
 
 #### Skills:
