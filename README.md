@@ -92,4 +92,46 @@ An interactive executive dashboard was created using Tableau Public to visualise
   <img src="docs/sales_dashboard.png" width="1200" hight="800">
 </p>
 
+#### Customer Analytics Dashboard
+- Total Customers KPI
+- Total Orders KPI
+- Customer Growth Trend
+- Order Trend Over Time
+- Customer Distribution by Number of Orders
+- Top 10 Customers by Profit
+<p align="center">
+  <img src="docs/sales_dashboard.png" width="1200" hight="800">
+</p>
+
+### Live Interactive Dashboard
+View the full interactive dashboard here 👉 https://public.tableau.com/app/profile/md.alamin.mia/viz/Tableau_17732526338650/SalesPerformanceDashboard2024
+
+## 📌 Key Business Insights
+- Dhaka region generates the highest revenue among all regions.
+- Corporate customers contribute higher overall profit compared to retail customers.
+- Electronics category delivers the strongest profit performance.
+- Several products operate below 30% profit margin, indicating a need for pricing review.
+- Sales show consistent growth toward the later months of the year.
+
+## 🚀 Business Recommendations
+Based on the analysis:
+- Increase marketing focus in high-performing regions such as Dhaka.
+- Reprice or renegotiate supplier cost for low-margin products.
+- Develop retention programs for high-value corporate customers.
+- Improve inventory planning based on sales trend patterns.
+
+## 👤 Author
+Alamin
+Aspiring Data Analyst
+
+#### Skills:
+- Excell
+- SQL
+- Data Visualisation
+- Business Intelligence
+- Tableau
+- Data Analysis
+
+If you found this project useful, please ⭐ the repository.
+
 
