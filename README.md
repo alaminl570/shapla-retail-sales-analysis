@@ -89,7 +89,7 @@ An interactive executive dashboard was created using Tableau Public to visualise
 - Revenue & Profit by Region
 - Revenue & Profit by Product Category
 <p align="center">
-  <img src="docs/sales_dashboard.png" width="800">
+  <img src="docs/sales_dashboard.png" width="1200" hight="800">
 </p>
 
 
