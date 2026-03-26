@@ -100,7 +100,7 @@ An interactive executive dashboard was created using Tableau Public to visualise
 - Customer Distribution by Number of Orders
 - Top 10 Customers by Profit
 <p align="center">
-  <img src="docs/sales_dashboard.png" width="1200" hight="800">
+  <img src="docs/customer_dashboard.png" width="1200" hight="800">
 </p>
 
 ### Live Interactive Dashboard
